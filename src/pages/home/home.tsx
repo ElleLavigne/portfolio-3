@@ -11,7 +11,7 @@ export function Home() {
           {/* Container title */}
           <div className="flex flex-col gap-4 max-w-sm ">
             <span className="font-medium">Olá, me chamo Izaelle, sou</span>
-            <div className="text-3xl font-bold min-w-96">
+            <div className="text-3xl font-semibold min-w-96">
               Desenvolvedora Front-end e UI UX Designer
             </div>
           </div>

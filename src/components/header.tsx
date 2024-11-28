@@ -10,9 +10,7 @@ export function Header() {
         <NavLink  to="/">
           Projetos
         </NavLink>
-        <NavLink  to="/about-me">
-          Sobre mim
-        </NavLink>
+     
       </nav>
     </div>
   );

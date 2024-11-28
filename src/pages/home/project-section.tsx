@@ -59,7 +59,7 @@ export function ProjectSection() {
           </div>
           <Separator className="-m-2" />
         </div>
-        <div className="flex flex-col gap-20 mt-14">
+        <div className="flex flex-col gap-20 mt-14 p-4">
           {currentList.map((data) => {
             return <Card key={data.id} data={data} />;
           })}

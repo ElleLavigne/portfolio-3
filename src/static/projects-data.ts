@@ -17,8 +17,7 @@ export const PROJECTS_DATA: IProject[] = [
     img: "lossi-thumb.png",
     title: "Lossi | Ecommerce",
     description: "Lossi é uma marca fictícia de cosméticos que criei para aprimorar minhas técnicas de design. O e-commerce foi desenvolvido com o propósito de ser simples e minimalista, trazendo sofisticação ao layout. Para isso, utilizei uma paleta de cores neutras, componentes de grande destaque e margens reduzidas, proporcionando um visual moderno. O design foi inteiramente elaborado no Figma.",
-    githubLink: "https://github.com/ElleLavigne/ignite-feed",
-    figmaLink: "https://www.figma.com/design/HCNiAIUGQkddUT3wCZsUYn/Norte-Cont%C3%A1bil?node-id=156-9&t=g6WrtFgQjIfw1jOE-1",
+    figmaLink: "https://www.figma.com/design/roqn3atXPog3oBranyeBoa/Remaking-%7C-Lossi?node-id=93-122&t=YldymjR2F9UYnMj5-1",
     tags: ["design"],
   },
   {
@@ -34,7 +33,7 @@ export const PROJECTS_DATA: IProject[] = [
     img: "DT-money-ignite-thumb.png",
     title: "Dashboard | DT-Money ",
     description: "Uma aplicação web focada em consumo e integração de APIs, construída com React",
-    githubLink: "linhttps://github.com/ElleLavigne/ignite-feedk",
+    githubLink: "https://github.com/ElleLavigne/03-dt-money",
     tags: ["dev"],
   },
   {
@@ -67,7 +66,7 @@ export const PROJECTS_DATA: IProject[] = [
     img: "norte-contabilidade-thumb.png",
     title: "Norte contabilidade - Site institucional",
     description: "Design criado no figma, programado em React.js.",
-    githubLink: "https://github.com/ElleLavigne/ignite-feed",
+    githubLink: "https://github.com/ElleLavigne/Norte-Contabilidade",
     figmaLink: "https://www.figma.com/design/HCNiAIUGQkddUT3wCZsUYn/Norte-Cont%C3%A1bil?node-id=156-9&t=g6WrtFgQjIfw1jOE-1",
     tags: ["dev", "design"],
   },
@@ -76,8 +75,8 @@ export const PROJECTS_DATA: IProject[] = [
     img: "gen-z-ecommerce-thumb.png",
     title: "Gen-z | E-commerce",
     description: "Design moderno e minimalista, criado no figma. Progamado em react utilizando tailwind",
-    githubLink: "https://github.com/ElleLavigne/ignite-feed",
-    figmaLink: "https://www.figma.com/design/HCNiAIUGQkddUT3wCZsUYn/Norte-Cont%C3%A1bil?node-id=156-9&t=g6WrtFgQjIfw1jOE-1",
+    githubLink: "https://github.com/ElleLavigne/ecommerce-genz",
+    figmaLink: "https://www.figma.com/design/KROdgyQuIrfoRxMt4z7ETm/Ecommerce?node-id=156-130&t=zvMpODwDdZXxMn5j-1",
     tags: ["dev", "design"],
   },
 

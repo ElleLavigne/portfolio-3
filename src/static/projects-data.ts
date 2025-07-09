@@ -16,7 +16,7 @@ export const PROJECTS_DATA: IProject[] = [
     id: "7",
     img: "lossi-thumb.png",
     title: "Lossi | Ecommerce",
-    description: "Lossi é uma marca fictícia de cosméticos que criei para aprimorar minhas técnicas de design. O e-commerce foi desenvolvido com o propósito de ser simples e minimalista, trazendo sofisticação ao layout. Para isso, utilizei uma paleta de cores neutras, componentes de grande destaque e margens reduzidas, proporcionando um visual moderno. O design foi inteiramente elaborado no Figma.",
+    description: "Lossi é uma marca fictícia criada para o estudo dos conceitos de criação de e-commerce, estruturada com um design moderno e minimalista. Por meio dela, pude aprimorar minhas habilidades no Figma.",
     figmaLink: "https://www.figma.com/design/roqn3atXPog3oBranyeBoa/Remaking-%7C-Lossi?node-id=93-122&t=YldymjR2F9UYnMj5-1",
     tags: ["design"],
   },
@@ -77,6 +77,7 @@ export const PROJECTS_DATA: IProject[] = [
     description: "Design moderno e minimalista, criado no figma. Progamado em react utilizando tailwind",
     githubLink: "https://github.com/ElleLavigne/ecommerce-genz",
     figmaLink: "https://www.figma.com/design/KROdgyQuIrfoRxMt4z7ETm/Ecommerce?node-id=156-130&t=zvMpODwDdZXxMn5j-1",
+
     tags: ["dev", "design"],
   },
 

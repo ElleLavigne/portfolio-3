@@ -10,6 +10,12 @@ export function Header() {
         <NavLink  to="/">
           Projetos
         </NavLink>
+      <a 
+      className="text-sm font-medium text-zinc-600 hover:text-foreground "
+      href="">
+      Currículo
+      </a>
+     
      
       </nav>
     </div>

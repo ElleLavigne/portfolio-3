@@ -30,6 +30,7 @@ export function ProjectSection() {
         <div className="flex flex-col ">
           <div className="app-container flex items-center justify-center gap-5 ">
             <Button
+            className="text-black"
               data-selected={currentTab === "ALL"}
               onClick={() => {
                 setCurrentTab("ALL");
@@ -39,6 +40,7 @@ export function ProjectSection() {
               Todos os projetos
             </Button>
             <Button
+            className="text-black"
               data-selected={currentTab === "dev"}
               onClick={() => {
                 setCurrentTab("dev");
@@ -48,6 +50,7 @@ export function ProjectSection() {
               Dev
             </Button>
             <Button
+            className="text-black"
               data-selected={currentTab === "design"}
               onClick={() => {
                 setCurrentTab("design");
